@@ -1,1 +1,56 @@
-/* Write your CSS here! */
+p {
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: larger;
+    text-align:left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#title {
+    font-size: 55px;
+    text-align:center
+}
+
+#Tribal {
+    font-size: 35px;
+    margin-left: 500px;
+}
+
+#trad-japanese {
+    font-size: 35px;
+    margin-left: 500px;
+}
+
+#Old-School {
+    font-size: 35px;
+    margin-left: 500px
+}
+
+#New-School {
+    font-size: 35px;
+    margin-left: 500px;
+}
+
+ol {
+    font-size: larger;
+    margin-left: 525px;
+}
+
+#tribal-photo {
+    align-items: center;
+}
+
+#japanese-photo {
+    align-items: center;
+}
+
+#old-school-photo {
+    align-items: center;
+}
+
+#new-school-photo {
+    align-items: center;
+
+}
