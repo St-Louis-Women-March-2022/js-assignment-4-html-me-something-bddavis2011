@@ -1,6 +1,4 @@
 p {
-    margin-left: 500px;
-    margin-right: 500px;
     font-size: larger;
     text-align:left;
     padding-top: 15px;
@@ -8,49 +6,58 @@ p {
     font-family: "Times New Roman", Times, serif;
 }
 
-#title {
+#mainHeading {
     font-size: 55px;
-    text-align:center
+    text-align:center;
+    color: red;
+}
+
+.funParagraph {
+    color: green;
 }
 
 #Tribal {
     font-size: 35px;
-    margin-left: 500px;
+    font-family:cursive
 }
 
 #trad-japanese {
     font-size: 35px;
-    margin-left: 500px;
+    font-family:cursive
 }
 
 #Old-School {
     font-size: 35px;
-    margin-left: 500px
+    font-family:cursive
 }
 
 #New-School {
     font-size: 35px;
-    margin-left: 500px;
+    font-family:cursive
+}
+
+#other {
+    font-size: 25px;
+    font-family:cursive
 }
 
 ol {
     font-size: larger;
-    margin-left: 525px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#tribal-photo {
-    align-items: center;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#japanese-photo {
-    align-items: center;
+.caption {
+   text-align:center
 }
 
-#old-school-photo {
-    align-items: center;
-}
-
-#new-school-photo {
-    align-items: center;
-
+body {
+    margin: 8px;
+    display: block;
 }
